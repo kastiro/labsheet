@@ -16,11 +16,6 @@
    cd DataMiningModule_cs4168
    ```
 
-2. Set up your own remote (optional):
-
-   ```bash
-   ./setup-remote.sh git@github.com:your-username/your-repo.git
-   ```
 
 3. Create virtual environment and install dependencies:
 
